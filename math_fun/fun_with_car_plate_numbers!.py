@@ -124,7 +124,7 @@ Suggest one or more variations of problems you can solve with car plate numbers 
 * Check if a given car plate number is valid
 * Which valid car plate numbers have a special property (eg prime number, contains at least two '8' digits, does not contain the lucky number 13, etc.)
 * If there are the same number of available car plate numbers each series (eg SMV and SMW)
-* (your idea here)
+* Which car plate numbers are older than 10 years
 
 Submit a pull request with your ideas and/or code to contribute to learning Mathematics using programming to benefit the world! :)
 """
