@@ -50,7 +50,7 @@ FOR i = 0 to 99
 ```
 """
 
-# we need to store the mapping from A to 1, B to 2, etc. 
+# we need to store the mapping from A to 1, B to 2, etc.   
 # for the letters part of the car plate number
 # a dictionary is good for this purpose
 letter_map = {}
